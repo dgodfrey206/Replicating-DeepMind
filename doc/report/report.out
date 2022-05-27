@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section*.2}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1}{Overview of the system}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{The task}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Reinforcement learning}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Exploration-exploitation}{subsection.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.3}{Neural network}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.4}{Learning process}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Components of the system}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{Launching and communicating with ALE}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{Convolutional neural network}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Q-learning}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Root Mean Squares of gradients \(RMSProp\)}{section.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Stochastic gradient descent}{subsection.2.4}% 13
+\BOOKMARK [3][-]{subsubsection.2.4.2}{RMSProp}{subsection.2.4}% 14
+\BOOKMARK [1][-]{section.3}{Implementation details}{}% 15
+\BOOKMARK [2][-]{subsection.3.1}{Atari Learning Environment}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.2}{Preprocessing}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.3}{Memory}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.4}{Neural network}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.5}{Computing on GPU}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.6}{Running instructions}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Results}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{Performance measures}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.2}{Comparison to human player}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.3}{Comparison to the original paper}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.4}{Applications and future usage}{section.4}% 26
+\BOOKMARK [1][-]{subsection.4.4}{Bibliography}{}% 27
